@@ -49,31 +49,31 @@ dt.predict([[5,6]])
 
 
 ## Output:
-Initial Dataset:
+### Initial Dataset:
 
 ![img11](https://user-images.githubusercontent.com/87663343/173235475-406cbe7a-bd7e-4a6c-8b03-7e8095f770e6.png)
 
-Dataset Information:
+### Dataset Information:
 
 ![img12](https://user-images.githubusercontent.com/87663343/173235508-3d255084-5355-4d70-860b-776c6fc51f82.png)
 
-Null Dataset:
+### Null Dataset:
 
 ![img13](https://user-images.githubusercontent.com/87663343/173235539-1d4d7c6b-d354-4146-930e-bc2447df3344.png)
 
-Encoded Dataset:
+### Encoded Dataset:
 
 ![img14](https://user-images.githubusercontent.com/87663343/173235567-0cf5f31b-7f1d-4f9d-ac58-87381cc8795d.png)
 
-Mean Square Error Value:
+### Mean Square Error Value:
 
 ![img15](https://user-images.githubusercontent.com/87663343/173235606-fe1d923d-1597-4cb6-927b-94796ae0e348.png)
 
-R Squared Score:
+### R Squared Score:
 
 ![img 16](https://user-images.githubusercontent.com/87663343/173235635-919ea648-cc67-46cb-a2f5-b8713c12cae3.png)
 
-Predicted Value:
+### Predicted Value:
 
 ![img17](https://user-images.githubusercontent.com/87663343/173235667-e630c246-85c3-4abd-9c27-72fa37936afa.png)
 
